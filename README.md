@@ -1,4 +1,4 @@
-# GCH-Custom-Lang
+# GHC-Custom-Lang
 A custom language file for Ghost Hunters Corp
 
 # How do I install it?
